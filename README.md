@@ -128,4 +128,4 @@ It will also show whatever error message you show to the user.
 
 If the test fails then it shows you an error message in case of the command line options test or the output of the `diff` command for the set dataset tests.
 
-The script has been tested on Linux (Ubuntu and Arch) as well as NetBSD but if you have problems, let me know.
+The script has been tested on Linux (Ubuntu and Arch) as well as NetBSD.
