@@ -1,0 +1,5 @@
+*.o
+dumper
+*.exe
+deps.mk
+.vscode/
